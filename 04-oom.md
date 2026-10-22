@@ -1,4 +1,5 @@
 <img width="1157" height="356" alt="image" src="https://github.com/user-attachments/assets/22c66380-103d-4886-af01-089abf64e6fc" />
+
 Вопрос 1)
 ~~~
 Процесс упал на 280 мб
