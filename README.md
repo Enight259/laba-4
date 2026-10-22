@@ -1,1 +1,1 @@
-# laba-4
+os-lab-04-krivoseev
